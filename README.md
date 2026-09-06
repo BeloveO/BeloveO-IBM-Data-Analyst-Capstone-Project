@@ -8,3 +8,6 @@ Explored Collection of data using websraping
 
 ## Data_Wrangling
 Explored cleaning data, replacing missing values, dropping duplicates and normalizing data
+
+## Exploratory Data Analysis
+Explored Data, its distribution. Found and handled Outliers, Found correlations between columns
